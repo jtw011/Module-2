@@ -4,7 +4,7 @@
   block in the screen to get bigger by one block.  
 
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/2eHphc0ojMs))
+* [Software Demo Video](https://youtu.be/2eHphc0ojMs)
 
 # Development Environment
 * I used visual studio code
