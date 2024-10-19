@@ -1,5 +1,5 @@
 # Overview
-* This assignment is to help my team with pygame for our project and improve my knowledge of 
+* This assignment is to help me help my team with pygame for our project and improve my knowledge of pygame.
 * This is a basic snake game played with the arrow keys. You can't hit the sides and you try to get the
   block in the screen to get bigger by one block.  
 
@@ -18,6 +18,6 @@
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Main menu
+* two player
+* host it online
